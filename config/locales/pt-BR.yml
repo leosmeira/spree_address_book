@@ -1,3 +1,17 @@
 pt-BR:
+  firstname: "Nome"
+  lastname: "Sobrenome"
+  address1: "Logradouro"
+  address2: "Complemento"
   address_book:
     other_address: "Outros endereços"
+    add_new_shipping_address: "Adicionar novo endereço"
+    new_shipping_address: "Novo Endereço"
+    edit_shipping_address: "Editar Endereço"
+    no_shipping_addresses_on_file: "Nenhum endereço no arquivo"
+    shipping_addresses: "Meus Endereços"
+    successfully_saved: "Salvo com sucesso"
+    unsuccessfully_saved: "Houve um erro ao tentar salvar o seu endereço."
+    successfully_updated: "Atualizado com sucesso"
+    unsuccessfully_updated: "Houve uma atualização ao tentar atualizar seu endereço."
+    save: "Salvar"
